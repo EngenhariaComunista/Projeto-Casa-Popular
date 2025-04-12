@@ -1,0 +1,57 @@
+# Projeto de Construção de Casa: Etapas Completas
+
+Para construir uma casa, é necessário seguir várias etapas bem definidas, desde o planejamento inicial até a conclusão da obra. Vou explicar as principais fases:
+
+## 1. Planejamento Inicial
+- Definição do orçamento disponível
+- Escolha do terreno adequado
+- Levantamento de necessidades da família (número de quartos, banheiros, etc.)
+- Pesquisa de referências e estilos arquitetônicos
+
+## 2. Estudos Preliminares
+- Análise do terreno (topografia, solo, insolação, ventilação)
+- Verificação das normas urbanísticas locais (taxa de ocupação, recuos, etc.)
+- Elaboração do programa de necessidades detalhado
+- Criação de estudos volumétricos e conceituais
+
+## 3. Projeto Arquitetônico
+- Desenvolvimento do anteprojeto
+- Projeto executivo com plantas, cortes, fachadas e detalhamentos
+- Memorial descritivo da construção
+- Aprovação nos órgãos competentes (prefeitura)
+
+## 4. Projetos Complementares
+- Projeto estrutural (fundações e estrutura)
+- Projeto hidrossanitário (água fria/quente, esgoto, drenagem)
+- Projeto elétrico e de telecomunicações
+- Projeto de climatização (se aplicável)
+- Projeto de prevenção contra incêndio
+
+## 5. Planejamento da Obra
+- Cronograma físico-financeiro
+- Orçamento detalhado
+- Contratação de mão de obra (construtora ou empreiteira)
+- Obtenção de alvarás e licenças
+
+## 6. Execução da Obra
+- *Serviços preliminares*: limpeza, tapume, locação
+- *Fundações*: escavação e concretagem
+- *Estrutura*: pilares, vigas e lajes
+- *Alvenaria*: paredes e divisórias
+- *Telhado/cobertura*: estrutura e telhas
+- *Instalações*: hidráulica, elétrica, gás
+- *Revestimentos*: pisos, azulejos, forros
+- *Esquadrias*: portas e janelas
+- *Acabamentos*: pintura, louças, metais, etc.
+- *Área externa*: paisagismo, calçadas, muros
+
+## 7. Finalização
+- Limpeza final da obra
+- Vistoria técnica
+- Obtenção do "habite-se"
+- Entrega das chaves
+
+## 8. Pós-Construção
+- Documentação final (plantas as built)
+- Manual do proprietário
+- Garantias dos materiais e serviços
